@@ -10,4 +10,4 @@ Exercicio 03 - NotasDosAlunos
 
 Exercicio 04 - Produtoiporj
 
-Exercicio 05 - 
+Exercicio 05 - SomaDeMatrizes
