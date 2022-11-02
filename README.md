@@ -3,8 +3,8 @@ Alguns exercícios envolvendo matrizes
 
 
 Exercicio 01 - CriandoMatriz
-  -Código para criar matrizes
-  -Utiliza Biblioteca JOptionPane
+-Código para criar matrizes
+-Utiliza Biblioteca JOptionPane
 
 Exercicio 02 - MatrizNomes
 
