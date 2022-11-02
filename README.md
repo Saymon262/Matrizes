@@ -3,6 +3,7 @@ Alguns exercícios envolvendo matrizes
 
 
 Exercicio 01 - CriandoMatriz
+  -Código para criar matrizes
 
 Exercicio 02 - MatrizNomes
 
