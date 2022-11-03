@@ -11,6 +11,7 @@ Alguns exercícios envolvendo matrizes
 
 	Exercicio 02 - MatrizNomes 
 		-Utiliza Biblioteca JOptionPane
+		-Matriz de qualquer ordem
 
 
 Exercicio 03 - NotasDosAlunos
