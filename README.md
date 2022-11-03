@@ -9,7 +9,9 @@ Alguns exercícios envolvendo matrizes
 		-Qualquer valor em qualquer posição (i,j) "(L,C)Linha e Coluna"
 	 
 
-Exercicio 02 - MatrizNomes
+	Exercicio 02 - MatrizNomes 
+		-Utiliza Biblioteca JOptionPane
+
 
 Exercicio 03 - NotasDosAlunos
 
