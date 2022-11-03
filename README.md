@@ -12,6 +12,7 @@ Alguns exercícios envolvendo matrizes
 	Exercicio 02 - MatrizNomes 
 		-Utiliza Biblioteca JOptionPane
 		-Matriz de qualquer ordem
+		-Código para criar uma matriz com valores iguais a nomes (STRING)
 
 
 Exercicio 03 - NotasDosAlunos
