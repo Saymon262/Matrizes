@@ -16,7 +16,8 @@ Alguns exercícios envolvendo matrizes
 		-Retorna nomes nas colunas pares da matriz
 
 
-Exercicio 03 - NotasDosAlunos
+	Exercicio 03 - NotasDosAlunos
+		-Utiliza Biblioteca JOptionPane
 
 Exercicio 04 - Produtoiporj
 
