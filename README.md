@@ -19,6 +19,7 @@ Alguns exercícios envolvendo matrizes
 	Exercicio 03 - NotasDosAlunos
 		-Utiliza Biblioteca JOptionPane
 		-Código para cadastrar nota de alunos
+		-Cada linha representa um Aluno ("A")
 
 Exercicio 04 - Produtoiporj
 
