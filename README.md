@@ -20,6 +20,7 @@ Alguns exercícios envolvendo matrizes
 		-Utiliza Biblioteca JOptionPane
 		-Código para cadastrar nota de alunos
 		-Cada linha representa um Aluno ("A")
+		-Cada coluna representa uma nota ("P")
 
 Exercicio 04 - Produtoiporj
 
