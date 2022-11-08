@@ -22,6 +22,7 @@ Alguns exercícios envolvendo matrizes
 		-Cada linha representa um Aluno ("A")
 		-Cada coluna representa uma nota ("P")
 
-Exercicio 04 - Produtoiporj
+	Exercicio 04 - Produtoiporj
+		-Utiliza Biblioteca JOptionPane
 
 Exercicio 05 - SomaDeMatrizes
