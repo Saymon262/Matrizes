@@ -21,6 +21,8 @@ Alguns exercícios envolvendo matrizes
 		-Código para cadastrar nota de alunos
 		-Cada linha representa um Aluno ("A")
 		-Cada coluna representa uma nota ("P")
+		-Matriz de ordem desejável
+
 
 	Exercicio 04 - Produtoiporj
 		-Utiliza Biblioteca JOptionPane
