@@ -5,7 +5,7 @@ Alguns exercícios envolvendo matrizes
 	Exercicio 01 - CriandoMatriz
 		-Código para criar matrizes
 		-Utiliza Biblioteca JOptionPane
-		-Matriz de qualquer ordem
+		-Matriz de ordem desejável
 		-Qualquer valor em qualquer posição (i,j) "(L,C)Linha e Coluna"
 	 
 
