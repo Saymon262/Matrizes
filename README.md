@@ -24,7 +24,9 @@ Alguns exercícios envolvendo matrizes
 
 	Exercicio 04 - Produtoiporj
 		-Utiliza Biblioteca JOptionPane
-		-Código que gera matriz onde o valor de cada célula é igual ao produto do indice da coluna pela linha respectiva a célula
+		-Código que gera matriz onde o valor de cada célula é igual ao produto
+		 do indice da coluna pela linha respectiva a célula
+		-Matriz de ordem desejável
 		
 
 Exercicio 05 - SomaDeMatrizes
