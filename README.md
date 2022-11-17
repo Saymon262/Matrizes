@@ -31,4 +31,5 @@ Alguns exercícios envolvendo matrizes
 		-Matriz de ordem desejável
 		
 
-Exercicio 05 - SomaDeMatrizes
+	Exercicio 05 - SomaDeMatrizes
+		--Utiliza Biblioteca JOptionPane
