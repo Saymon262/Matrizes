@@ -32,4 +32,5 @@ Alguns exercícios envolvendo matrizes
 		
 
 	Exercicio 05 - SomaDeMatrizes
-		--Utiliza Biblioteca JOptionPane
+		-Utiliza Biblioteca JOptionPane
+		-Código para somar duas matrizes
